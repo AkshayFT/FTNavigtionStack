@@ -11,6 +11,16 @@
 		BA48D53C29E42FAD00BBCDFB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA48D53B29E42FAD00BBCDFB /* ContentView.swift */; };
 		BA48D53E29E42FAF00BBCDFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA48D53D29E42FAF00BBCDFB /* Assets.xcassets */; };
 		BA48D54129E42FAF00BBCDFB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA48D54029E42FAF00BBCDFB /* Preview Assets.xcassets */; };
+		BA48D55D29E56E6700BBCDFB /* Sidebar.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA48D55C29E56E6700BBCDFB /* Sidebar.swift */; };
+		BA48D55F29E572CC00BBCDFB /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA48D55E29E572CC00BBCDFB /* DetailView.swift */; };
+		BAAC9B6529E82CEE00484A02 /* ListItemTracking.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAC9B6429E82CEE00484A02 /* ListItemTracking.swift */; };
+		BAAC9B7229E929A800484A02 /* FTSidebarTopSectionGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAC9B6B29E929A800484A02 /* FTSidebarTopSectionGridView.swift */; };
+		BAAC9B7329E929A800484A02 /* FTSidebarTopSectionGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAC9B6C29E929A800484A02 /* FTSidebarTopSectionGridItemView.swift */; };
+		BAAC9B7429E929A800484A02 /* FTSidebarViewNew.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAC9B6D29E929A800484A02 /* FTSidebarViewNew.swift */; };
+		BAAC9B7529E929A800484A02 /* FTTemplatesSidebarItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAC9B6E29E929A800484A02 /* FTTemplatesSidebarItemView.swift */; };
+		BAAC9B7629E929A800484A02 /* FTSidebarTopSectionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAC9B7029E929A800484A02 /* FTSidebarTopSectionViewModel.swift */; };
+		BAAC9B7729E929A800484A02 /* FTSidebarGridItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAC9B7129E929A800484A02 /* FTSidebarGridItemViewModel.swift */; };
+		BAAC9B7929E92AFD00484A02 /* SidebarTopSectionElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAC9B7829E92AFD00484A02 /* SidebarTopSectionElement.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +29,17 @@
 		BA48D53B29E42FAD00BBCDFB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BA48D53D29E42FAF00BBCDFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA48D54029E42FAF00BBCDFB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BA48D55C29E56E6700BBCDFB /* Sidebar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sidebar.swift; sourceTree = "<group>"; };
+		BA48D55E29E572CC00BBCDFB /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		BAAC9B6429E82CEE00484A02 /* ListItemTracking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemTracking.swift; sourceTree = "<group>"; };
+		BAAC9B6B29E929A800484A02 /* FTSidebarTopSectionGridView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FTSidebarTopSectionGridView.swift; sourceTree = "<group>"; };
+		BAAC9B6C29E929A800484A02 /* FTSidebarTopSectionGridItemView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FTSidebarTopSectionGridItemView.swift; sourceTree = "<group>"; };
+		BAAC9B6D29E929A800484A02 /* FTSidebarViewNew.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FTSidebarViewNew.swift; sourceTree = "<group>"; };
+		BAAC9B6E29E929A800484A02 /* FTTemplatesSidebarItemView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FTTemplatesSidebarItemView.swift; sourceTree = "<group>"; };
+		BAAC9B7029E929A800484A02 /* FTSidebarTopSectionViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FTSidebarTopSectionViewModel.swift; sourceTree = "<group>"; };
+		BAAC9B7129E929A800484A02 /* FTSidebarGridItemViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FTSidebarGridItemViewModel.swift; sourceTree = "<group>"; };
+		BAAC9B7829E92AFD00484A02 /* SidebarTopSectionElement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SidebarTopSectionElement.swift; sourceTree = "<group>"; };
+		BAAF4A6D29E800C200804A92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +72,14 @@
 		BA48D53829E42FAD00BBCDFB /* FTNavigtionStack */ = {
 			isa = PBXGroup;
 			children = (
+				BAAF4A6D29E800C200804A92 /* Info.plist */,
 				BA48D53929E42FAD00BBCDFB /* FTNavigtionStackApp.swift */,
 				BA48D53B29E42FAD00BBCDFB /* ContentView.swift */,
+				BAAC9B6F29E929A800484A02 /* ViewModels */,
+				BAAC9B6A29E929A800484A02 /* Views */,
+				BA48D55E29E572CC00BBCDFB /* DetailView.swift */,
+				BA48D55C29E56E6700BBCDFB /* Sidebar.swift */,
+				BAAC9B6429E82CEE00484A02 /* ListItemTracking.swift */,
 				BA48D53D29E42FAF00BBCDFB /* Assets.xcassets */,
 				BA48D53F29E42FAF00BBCDFB /* Preview Content */,
 			);
@@ -65,6 +92,27 @@
 				BA48D54029E42FAF00BBCDFB /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BAAC9B6A29E929A800484A02 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				BAAC9B6B29E929A800484A02 /* FTSidebarTopSectionGridView.swift */,
+				BAAC9B6C29E929A800484A02 /* FTSidebarTopSectionGridItemView.swift */,
+				BAAC9B6D29E929A800484A02 /* FTSidebarViewNew.swift */,
+				BAAC9B6E29E929A800484A02 /* FTTemplatesSidebarItemView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		BAAC9B6F29E929A800484A02 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				BAAC9B7829E92AFD00484A02 /* SidebarTopSectionElement.swift */,
+				BAAC9B7029E929A800484A02 /* FTSidebarTopSectionViewModel.swift */,
+				BAAC9B7129E929A800484A02 /* FTSidebarGridItemViewModel.swift */,
+			);
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,7 +185,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAAC9B6529E82CEE00484A02 /* ListItemTracking.swift in Sources */,
+				BAAC9B7329E929A800484A02 /* FTSidebarTopSectionGridItemView.swift in Sources */,
+				BAAC9B7429E929A800484A02 /* FTSidebarViewNew.swift in Sources */,
+				BAAC9B7529E929A800484A02 /* FTTemplatesSidebarItemView.swift in Sources */,
+				BAAC9B7229E929A800484A02 /* FTSidebarTopSectionGridView.swift in Sources */,
 				BA48D53C29E42FAD00BBCDFB /* ContentView.swift in Sources */,
+				BA48D55F29E572CC00BBCDFB /* DetailView.swift in Sources */,
+				BAAC9B7629E929A800484A02 /* FTSidebarTopSectionViewModel.swift in Sources */,
+				BA48D55D29E56E6700BBCDFB /* Sidebar.swift in Sources */,
+				BAAC9B7929E92AFD00484A02 /* SidebarTopSectionElement.swift in Sources */,
+				BAAC9B7729E929A800484A02 /* FTSidebarGridItemViewModel.swift in Sources */,
 				BA48D53A29E42FAD00BBCDFB /* FTNavigtionStackApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,11 +328,13 @@
 				DEVELOPMENT_TEAM = CNTLGGQX2J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FTNavigtionStack/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -299,11 +359,13 @@
 				DEVELOPMENT_TEAM = CNTLGGQX2J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FTNavigtionStack/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
